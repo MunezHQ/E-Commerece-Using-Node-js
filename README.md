@@ -120,7 +120,7 @@
 
 ## Author
 
-- Fares Bekkouche
+- Fethiya Safi
 
 ## Contrubution
 
